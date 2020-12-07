@@ -1,3 +1,6 @@
+// Reviewed by Quan Nguyen
+// Main included in Life Class
+
 package com.holub.life;
 
 import java.awt.*;
